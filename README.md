@@ -1,8 +1,8 @@
 # AUTHOR = AKILESH S,
 
-The above listed codes and information are unique and it is open source to use,
+The above-listed codes and information are unique and it is open-source to use,
 
-We scraped swiggy website and Done Some Unique Types of Charts using pandas, plotly packages,
+We scraped the Swiggy website and did some Unique Types of Charts using pandas, Plotly packages,
 
 Swiggy_Web_Scraping.ipynb contains web scraping code and visualization of different charts,
 
@@ -14,6 +14,7 @@ Tamil Nadu.
 
 To know more about me or to follow my work, you can visit me on,
 
+<li><a href="https://akileshsaravanan.github.io/">Portfolio</a> 
 <li><a href="http://www.linkedin.com/in/Akilesh--S">LinkedIn</a> 
 <li><a href="https://github.com/AkileshSaravanan">Github</a> 
 <li><a href="https://www.hackerrank.com/Akilesh_RMS">HackerRank</a> 
